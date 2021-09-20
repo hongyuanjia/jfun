@@ -1,0 +1,18 @@
+Package: jfun
+Version: 0.0.0.9000
+Title: Personal Helper Functions of Hongyuan Jia
+Description: Provides small helper functions including setting proxy and etc.
+Authors@R:
+    person(given = "Hongyuan",
+        family = "Jia",
+        role = c("aut", "cre"),
+        email = "hongyuanjia@cqust.edu.cn",
+        comment = c(ORCID = "0000-0002-0075-8183")
+    )
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
+Imports: 
+    httr
