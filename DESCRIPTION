@@ -16,3 +16,5 @@ Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.1
 Imports: 
     httr
+URL: https://github.com/hongyuanjia/jfun
+BugReports: https://github.com/hongyuanjia/jfun/issues
